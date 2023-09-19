@@ -9,9 +9,24 @@
 
 ![Imagem da página inicial](img/img-calendario.png)
 
-Durante as aulas de progamação, para o ensino de Javascript, criamos um calendário interativo na qual o usuário pode escolher um dia e colorir a data da cor que ele prefeir!
+Durante as aulas de progamação, para o ensino de Javascript, ,mais especificamente o "function", criamos um calendário interativo na qual o usuário pode escolher um dia e colorir a data da cor que ele prefeir!
 
 ## Funcionalidades
+
+### ESCOLHER A COR
+![gif da funcionalidade]()
+
+Ao clicar no botão, o nome da cor selecionada é adiciona ao CSS. Para realizar essa ação damos um nome para a cor e usamos o function para colorir a data.
+
+### SELECIONAR A DATA PARA COLORIR
+![gif da funcionalidade](img/giffun2.gif)
+
+Agora para selecionar o dia que o usuário deseja colorir o function procura nos blocos o espaço dado com aquele nome. Exmplo, se o usuário selecionar o dia 5, o código vai procurar pelo bloco dado como número 5 para colorir. 
+
+### BOTÃO DE ENVIAR
+![gif da funcionalidade]()
+Ao final, quando o usuário clica no botão de enviar, a data escolhida ganha cor!
+
 
 ## Tecnologias utilizadas
 Neste projetos tivemos o uso de:
@@ -22,6 +37,7 @@ Neste projetos tivemos o uso de:
 * GITHUB
 
 ## Fontes consultadas
+---
 
 ## Autores
-Sarah Ozeto 
+Sarah Ozeto, com a orientação do professor Leonardo Rocha.
