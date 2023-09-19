@@ -25,6 +25,7 @@ Agora para selecionar o dia que o usuário deseja colorir o function procura nos
 
 ### BOTÃO DE ENVIAR
 ![gif da funcionalidade](IMG/giffun3.gif)
+
 Ao final, quando o usuário clica no botão de enviar, a data escolhida ganha cor!
 
 
