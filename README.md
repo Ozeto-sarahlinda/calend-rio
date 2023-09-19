@@ -31,14 +31,15 @@ Ao final, quando o usuário clica no botão de enviar, a data escolhida ganha co
 
 ## Tecnologias utilizadas
 Neste projetos tivemos o uso de:
-* HTML
-* CSS
+* HTML 5 
+* CSS 3
 * JAVASCRIPT
 * GIT 
 * GITHUB
 
 ## Fontes consultadas
----
+[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README  
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
 
 ## Autores
 Sarah Ozeto, com a orientação do professor Leonardo Rocha.
