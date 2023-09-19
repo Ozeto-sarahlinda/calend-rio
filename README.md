@@ -14,7 +14,7 @@ Durante as aulas de progamação, para o ensino de Javascript, ,mais especificam
 ## Funcionalidades
 
 ### ESCOLHER A COR
-![gif da funcionalidade]()
+![gif da funcionalidade](IMG/giffun1.gif)
 
 Ao clicar no botão, o nome da cor selecionada é adiciona ao CSS. Para realizar essa ação damos um nome para a cor e usamos o function para colorir a data.
 
@@ -24,7 +24,7 @@ Ao clicar no botão, o nome da cor selecionada é adiciona ao CSS. Para realizar
 Agora para selecionar o dia que o usuário deseja colorir o function procura nos blocos o espaço dado com aquele nome. Exmplo, se o usuário selecionar o dia 5, o código vai procurar pelo bloco dado como número 5 para colorir. 
 
 ### BOTÃO DE ENVIAR
-![gif da funcionalidade]()
+![gif da funcionalidade](IMG/giffun3.gif)
 Ao final, quando o usuário clica no botão de enviar, a data escolhida ganha cor!
 
 
